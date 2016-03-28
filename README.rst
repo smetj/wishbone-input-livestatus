@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -11,7 +13,7 @@
     wishbone.input.livestatus
     =========================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Queries Livestatus at the chosen interval.
     ------------------------------------------
@@ -42,5 +44,3 @@
 
             - outbox
                |  A description of the queue
-
-    
